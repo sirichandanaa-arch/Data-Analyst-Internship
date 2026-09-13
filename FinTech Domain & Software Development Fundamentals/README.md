@@ -62,3 +62,10 @@ The resulting CSV contains **15 columns** and can be used for further data analy
 ## Result
 
 The public API was successfully called, the JSON response was inspected, and the data was successfully converted into CSV format for analysis.
+---
+
+## Software Architecture Diagram
+
+The diagram below shows the flow of data from a user's action in a web application through the backend and database to an analytics dashboard.
+
+![Software Architecture Diagram](software%20architecture%20diagram.png)
