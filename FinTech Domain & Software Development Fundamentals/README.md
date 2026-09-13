@@ -62,7 +62,7 @@ The resulting CSV contains **15 columns** and can be used for further data analy
 ## Result
 
 The public API was successfully called, the JSON response was inspected, and the data was successfully converted into CSV format for analysis.
----
+
 
 ## Software Architecture Diagram
 
